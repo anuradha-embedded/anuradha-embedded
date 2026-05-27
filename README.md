@@ -18,3 +18,4 @@ Hardware Engineer transitioning into Embedded Software & Systems Engineering.
 
 ## Interests
 AI Hardware | Embedded Software | Automotive Systems
+
